@@ -1,5 +1,7 @@
 # group_names
 Put your names here
-Austin Appel
 
+
+Gustavo Segovia
+Austin Appel
 Anthony Lundberg
